@@ -44,4 +44,3 @@ python inference.py --source DATA/test_images/input_frames --out DATA/test_image
 * The script will process all images in the `--source` folder.
 * Annotated frames (with bounding boxes drawn) will be saved to the `--out` folder.
 * A `predictions.csv` file will be dynamically generated, formatted with normalized bounding box coordinates (`x_center`, `y_center`, `width`, `height`).
-* 
