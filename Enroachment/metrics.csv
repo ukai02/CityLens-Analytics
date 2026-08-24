@@ -1,0 +1,9 @@
+metric,value
+precision_at_0.5_conf,0.9607
+recall_at_0.5_conf,0.8594
+mAP_0.5,0.9240
+mAP_0.5_0.95,0.6661
+confusion_matrix_true_positive,52
+confusion_matrix_false_positive,5
+confusion_matrix_true_negative,0
+confusion_matrix_false_negative,4

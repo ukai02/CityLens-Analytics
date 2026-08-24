@@ -1,0 +1,4 @@
+# Papers, LLMs, tutorials used
+# - Ultralytics YOLO26 documentation: https://docs.ultralytics.com
+# - Architecture Concept: YOLO NMS-free structural adaptations for Edge Devices.
+# - AI Assistance: Utilized LLM for debugging inference scripts and YAML configuration.

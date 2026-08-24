@@ -1,0 +1,3 @@
+# Link to training/validation dataset
+# - Primary Dataset: Roboflow Universe (Encroachment / Road Obstacle Detection)
+# - Note: Original dataset was locally modified to flatten multiple sub-classes into a single 'encroachment' class (Class 0) to align with Hackathon KPIs.
