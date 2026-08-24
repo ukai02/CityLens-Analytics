@@ -1,0 +1,3 @@
+# Papers, LLMs, tutorials used
+# - Ultralytics YOLO26 documentation: https://docs.ultralytics.com
+# - Claude (Anthropic) — debugging training scripts and augmentation pipeline

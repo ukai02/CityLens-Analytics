@@ -1,0 +1,3 @@
+# Link to training/validation dataset
+# - Dataset: <your dataset URL or source>
+# - Train/val split: 2798 train (9821 after augmentation) / 806 val
